@@ -1,0 +1,11 @@
+
+services:
+  server:
+    build:
+      context: .
+    ports:
+      - 5000:5000
+      - 9042:9042
+    network_mode: host
+
+

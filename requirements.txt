@@ -1,0 +1,6 @@
+cassio
+langchain
+python-dotenv
+flask
+flask_cors
+CLIP @ git+https://github.com/openai/CLIP.git
